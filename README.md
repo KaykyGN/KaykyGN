@@ -1,6 +1,6 @@
-## Olá! eu sou o Kayky Gabriel, desenvolvedor Front-end!
+## Olá! eu sou o Kayky Gabriel, desenvolvedor FullStack!
 
-- 🔭 Trabalho com front-end
+- 🔭 React, React Native
 
 
 <div align="center">
