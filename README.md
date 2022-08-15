@@ -3,9 +3,6 @@
 ## 🚀 Sobre mim
 Eu sou um desenvolvedor fullstack, com maior nível de habilidade em front-end! 
 
-## 🛠 Habilidades
-
-JavaScript, HTML5, CSS3, React, React Native, MySQL, ExpressJS, NodeJS, NextJS... 
 
 
 <div align="center">
@@ -16,13 +13,19 @@ JavaScript, HTML5, CSS3, React, React Native, MySQL, ExpressJS, NodeJS, NextJS..
 
 <div style="display: inline_block"><br>
   
-  
+  ## 🛠 Habilidades
+
+JavaScript, HTML5, CSS3, React, React Native, MySQL, ExpressJS, NodeJS, NextJS... 
+
   
   <img align="center" alt="Kayky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kayky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kayky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kayky-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kayky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+          
 
   
 </div>
