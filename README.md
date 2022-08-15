@@ -1,6 +1,11 @@
-## Olá! eu sou o Kayky Gabriel, desenvolvedor FullStack!
+## Olá, eu sou o Kayky! 👋
 
-- 🔭 React, React Native
+## 🚀 Sobre mim
+Eu sou um desenvolvedor fullstack, com maior nível de habilidade em front-end! 
+
+## 🛠 Habilidades
+
+JavaScript, HTML5, CSS3, React, React Native, MySQL, ExpressJS, NodeJS, NextJS... 
 
 
 <div align="center">
